@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PCM1681PWP")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/PCM1681PWP")(options "")(descr ""))
+  (lib (name "NMJ6HCD2")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/NMJ6HCD2")(options "")(descr ""))
+  (lib (name "STM32F446VET6")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/STM32F446VET6")(options "")(descr ""))
+)
