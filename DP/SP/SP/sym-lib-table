@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "PCM1681PWP")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/PCM1681PWP/PCM1681PWP.kicad_sym")(options "")(descr ""))
-  (lib (name "NMJ6HCD2")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/NMJ6HCD2/NMJ6HCD2.kicad_sym")(options "")(descr ""))
-  (lib (name "STM32F446VET6")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/STM32F446VET6/STM32F446VET6.kicad_sym")(options "")(descr ""))
-  (lib (name "stm32f446vetx kopie")(type "KiCad")(uri "C:/Users/raimr/Documents/KiCad/DP/SP/STM32F446VET6/stm32f446vetx kopie.kicad_sym")(options "")(descr ""))
-)
