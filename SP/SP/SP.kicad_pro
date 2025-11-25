@@ -980,7 +980,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/raimr/OneDrive/škola/diplomka/obrazky/3 - navrh desky/",
+    "plot_directory": "C:/Users/raimr/Documents/KiCad/SP_Raimr/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
